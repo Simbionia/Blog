@@ -1,0 +1,30 @@
+.section1{
+    background-color: lightblue
+}
+.section2{
+    background-color: rgb(247, 194, 173)
+}
+.section3{
+    background-color: rgb(185, 245, 245)
+}
+.section4{
+    background-color: rgb(247, 194, 173)
+}
+.section5{
+    background-color: rgb(247, 247, 238)
+}
+.title{
+    font-size: 400%
+}
+.outline{
+    outline: gray dashed
+}
+.outline2{
+    outline: gray ridge
+}
+.font{
+    font-style: oblique
+}
+.title2{
+    font-size: 200%
+}
